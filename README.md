@@ -21,14 +21,7 @@ php artisan migrate
 php artisan db:seed
 By default seeder will create an user:
 
-
 login: user@gmail.com
 psw:  password
 
-
 Also feel free to create an user on your own.
-
-
-Looking forward to get any feedbacks back either positive or negative.
-
-Regards Vitali
