@@ -12,16 +12,16 @@ DB_USERNAME=root<br />
 DB_PASSWORD=<br />
 
 
-3 step: CLI commands.
+3 step: CLI commands.<br />
 
-Open terminal and run the following commands
+Open terminal and run the following commands<br />
 
-php artisan serve
-php artisan migrate
-php artisan db:seed
-By default seeder will create an user:
+php artisan serve<br />
+php artisan migrate<br />
+php artisan db:seed<br />
+By default seeder will create an user:<br />
 
-login: user@gmail.com
-psw:  password
+login: user@gmail.com<br />
+psw:  password<br />
 
-Also feel free to create an user on your own.
+Also feel free to create an user on your own.<br />
