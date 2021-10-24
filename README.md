@@ -4,12 +4,12 @@
 2 step: Edit .env file, add your database credentials, ( an example is shown below)
 
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
++DB_CONNECTION=mysql
++DB_HOST=127.0.0.1
++DB_PORT=3306
++DB_DATABASE=laravel
++DB_USERNAME=root
++DB_PASSWORD=
 
 
 3 step: CLI commands.
